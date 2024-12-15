@@ -7,7 +7,7 @@ import os
 
 
 class Evaluation_time_period:
-    # Connects to Neo4j Database
+    # Connect to Neo4j Database
     graph = Graph("bolt://localhost:7687", auth=("neo4j", "9665131011"))
 
     # Load datasets
