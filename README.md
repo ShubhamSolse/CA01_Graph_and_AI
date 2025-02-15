@@ -1,1 +1,2 @@
-# GraphAI_B9AI101_CA1
+# Irish Transport system using NEO4j and Python
+The following analysis and insights are the result of an in-depth study on the transport systems of Ireland, with an emphasis on LUAS, DART, and bus services. This project used actual data scraped from the official websites of these transport systems. Using data preparation, visualization in Neo4j, and exploratory data analysis, critical insights and patterns were identified. The study further investigated data integrity and then applied machine learning techniques for predictions on the transport metrics.
